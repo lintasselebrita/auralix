@@ -1,0 +1,7 @@
+{
+  "enable_ads": true,
+  "enable_app_open": true,
+  "enable_rewarded": true,
+  "enable_native": true,
+  "app_open_interval_seconds": 900
+}
