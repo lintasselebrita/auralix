@@ -1,7 +1,9 @@
 {
-  "enable_ads": true,
+  "enable_ads": false,
   "enable_app_open": true,
   "enable_rewarded": true,
   "enable_native": true,
+  "enable_interstisial": true,
+  "interstisial_interval_seconds": 60,
   "app_open_interval_seconds": 60
 }
